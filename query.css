@@ -1,0 +1,40 @@
+@media screen and (max-width: 768px) {
+    .flex {
+      flex-direction: column;
+      text-align: center;
+    }
+
+    .beach {
+      /* margin-top: 5%; */
+      width: 250px;
+      height: 150px;
+    }
+    .background{
+        width: 35%;
+        height: 35%;
+    }
+
+    .words{
+        margin-left:10px;
+    
+    }
+    
+    .navnav{
+        display: flex;
+        flex-direction: column;
+        gap: 0em;
+        color: white;
+        /* margin-left: 30%; */
+        /* padding-top: 50px; */
+        
+       
+    }
+    .btn{
+        /* margin-left: 20%; */
+        background-color: purple;
+        color: white;
+        /* padding: 10px,10px; */
+       
+    
+    }
+  }

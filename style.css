@@ -1,0 +1,61 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Nixie+One&family=Roboto:ital,wght@0,500;1,400&display=swap');
+
+
+.background{
+    background-image: url(/images/avada2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    list-style: none;
+}
+.navnav{
+    display: flex;
+    gap: 2em;
+    color: white;
+    margin-left: 30%;
+    padding-top: 50px;
+    
+   
+}
+.avada{
+    font-size: 50px;
+    margin-top: 20%;
+    text-align: center;
+    color: white;
+    font-family: 'Nixie One', cursive;
+}
+.where{
+    text-align: center;
+    color: white;
+    font-family: 'Nixie One', cursive;
+
+}
+.btn{
+    margin-left: 40%;
+    background-color: purple;
+    color: white;
+    padding: 16px,20px;
+   
+
+}
+.beach{
+    margin-top: 5%;
+    width: 500px;
+    height: 300px;
+}
+.who{
+    font-size: 35px;
+    font-family: 'Nixie One', cursive;
+}
+.flex{
+    display: flex;
+}
+.words{
+    margin-left:50px;
+
+}
+
+
+
